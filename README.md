@@ -1,6 +1,3 @@
-Certainly! Below is a sample README file that you can use for your code:
-
----
 
 # Document Generation and Conversion Utility
 
